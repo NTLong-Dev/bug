@@ -1,5 +1,6 @@
 @echo off
 title long
+mode con cols=120 lines=40
 start "" https://www.youtube.com/watch?v=6Zr5LqMAATM
 color 4
 ping localhost -n 6,6 > nul
@@ -316,4 +317,44 @@ echo "                              ..:^~~!!7777777!!77777!77777777!!!~JYYYYYYYY
 echo "                                     ..:::^^^~~~~~~~~~~^^:::...  ^JYYYYYYYYYYYYYYYY5555J7^.         "
 echo "                                                                  ^JYYYYYYYYYYYYYJ?7!^.             "
 echo "                                                                   ^!!!!~~~~^^::.                   "
+ping localhost -n 2 > nul	
+color 0D
+
+echo "________00000000000___________000000000000_________"
+ping localhost -n 2 > nul
+echo "______00000000_____00000___000000_____0000000______"
+ping localhost -n 2 > nul
+echo "____0000000_____________000______________00000_____"
+ping localhost -n 2 > nul
+echo "___0000000_______________0_________________0000____"
+echo "__000000____________________________________0000___"
+ping localhost -n 2 > nul
+echo "__00000_____________________________________ 0000__"
+ping localhost -n 2 > nul
+echo "_00000______________________________________00000__"
+ping localhost -n 2 > nul
+echo "_00000_____________________________________000000__"
+ping localhost -n 2 > nul
+echo "__000000_________________________________0000000___"
+ping localhost -n 2 > nul
+echo "___0000000______________________________0000000____"
+ping localhost -n 2 > nul
+echo "_____000000____________________________000000______"
+ping localhost -n 2 > nul
+echo "_______000000________________________000000________"
+ping localhost -n 2 > nul
+echo "__________00000_____________________0000___________"
+ping localhost -n 2 > nul
+echo "_____________0000_________________0000_____________"
+ping localhost -n 2 > nul
+echo "_______________0000_____________000________________"
+ping localhost -n 2 > nul
+echo "_________________000_________000___________________"
+ping localhost -n 2 > nul
+echo "_________________ __000_____00_____________________"
+ping localhost -n 2 > nul
+echo "______________________00__00_______________________"
+ping localhost -n 2 > nul
+echo "________________________00_________________________"
+
 pause>nul
